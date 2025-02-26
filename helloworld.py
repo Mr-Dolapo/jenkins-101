@@ -1,2 +1,2 @@
 
-print("Hello world")
+print("Hello world, does the polling work?")
